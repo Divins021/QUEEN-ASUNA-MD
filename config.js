@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put your session id here",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~qtBHHIzb#xTRMkfHVwXldb9ztAaJwUFuxgkZQP9pBqGo5wzsnd8s",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -23,8 +23,8 @@ STICKER_NAME: process.env.STICKER_NAME || "QUEEN-ASUNA-MD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
-OWNER_NAME: process.env.OWNER_NAME || "INCONNU BOY",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "243833559779",
+OWNER_NAME: process.env.OWNER_NAME || "𝑀𝐸𝐿𝐼𝑂𝐷𝐴𝑆",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p1xybt.jpg",
 LIVE_MSG: process.env.LIVE_MSG || ">*QUEEN-ASUN-MD* 👸 ALIVE",

@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~GtxwzS5Z#jjVhuMpFn2rFe02-NKlUQLe8zJPLsMk8ccDJ0ocZKmU",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~WhwXkQiR#UW4c9vIZhmzw4US4MNebfPqqd2R7WAU-DiTsRG-Sf2Y",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -24,7 +24,7 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "243833559779",
-OWNER_NAME: process.env.OWNER_NAME || "𝑺𝑼𝑵𝑮 𝑱𝑰𝑵 𝑾𝑶𝑶 𝑲𝑹𝑺",
+OWNER_NAME: process.env.OWNER_NAME || "𝑺𝒖𝒏𝒈 𝒋𝒊𝒏 𝒘𝒐𝒐",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p1xybt.jpg",
 LIVE_MSG: process.env.LIVE_MSG || ">*QUEEN-ASUN-MD* 👸 ALIVE",
